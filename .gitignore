@@ -1,4 +1,6 @@
 venv
+.venv
 datasets
 *.pth
 .DS_Store
+cifar-10-batches-py
