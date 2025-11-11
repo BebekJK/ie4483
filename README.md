@@ -48,6 +48,6 @@ The folder ``artifacts`` contains important data related to the training of the 
 ## Project Team
 This project is developed by: 
 
-1. Kevin Jonathan Kusnomo (U2220214F)
-2. Dave Martheen Gunawan
-3. Jordan Siau
+1. Dave Martheen Gunawan (U2220581K)
+2. Jordan Siau (U2221866G)
+3. Kevin Jonathan Kusnomo (U2220214F)
