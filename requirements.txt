@@ -9,3 +9,5 @@ torchviz
 torchview
 sklearn
 seaborn
+pandas
+Pillow
